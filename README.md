@@ -43,4 +43,15 @@ You will need to create a Hardhat project, creation is quite simple, you can do 
 
 I recommend to use `NodeJS` in the version higher or equal to `16.0` and install Hardhat also locally to each project.
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 
