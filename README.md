@@ -54,6 +54,7 @@ Below you can find settings for networks, click to expand:
    Chain ID: 81
    Currency Symbol: SBY```
 
+
 </p>
 </details>
 
