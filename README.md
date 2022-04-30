@@ -48,8 +48,8 @@ Below you can find settings for networks, click to expand:
 <details><summary>Shibuya Settings</summary>
 <p>
    
-   ```javascript 
-   Network Name:  Shibuya
+   ``` 
+   `Network Name`:  Shibuya
    RPC: https://rpc.shibuya.astar.network:8545/
    Chain ID: 81
    Currency Symbol: SBY
