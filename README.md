@@ -43,18 +43,79 @@ You will need to create a Hardhat project, creation is quite simple, you can do 
 
 I recommend to use `NodeJS` in the version higher or equal to `16.0` and install Hardhat also locally to each project.
 
-Below you can find settings for networks, click to expand:
+Below, you can find settings for networks (click to expand):
 
 <details><summary>Shibuya Settings</summary>
 <p>
    
    ```
    Network Name:  Shibuya
-   RPC: https://rpc.shibuya.astar.network:8545/
+   RPC: https://rpc.shibuya.astar.network:8545
    Chain ID: 81
    Currency Symbol: SBY
+   Block explorer: https://blockscout.com/shibuya/
    ```
 
 </p>
 </details>
+
+<details><summary>Shiden Settings</summary>
+<p>
+   
+   ```
+   Network Name:  Shiden
+   RPC: https://rpc.shiden.astar.network:8545
+   Chain ID: 336
+   Currency Symbol: SDN
+   Block explorer: https://blockscout.com/shiden
+   ```
+
+</p>
+</details>
+
+<details><summary>Astar Settings</summary>
+<p>
+   
+   ```
+   Network Name:  Astar Network
+   RPC: https://rpc.astar.network:8545
+   Chain ID: 592
+   Currency Symbol: ASTR
+   Block explorer: https://blockscout.com/astar
+   ```
+
+</p>
+</details>
+
+```
+shibuya: {
+    url: 'https://rpc.shibuya.astar.network:8545',
+    chainId: 81,
+    accounts: [privateKey]
+  },
+```
+
+```
+shiden: {
+    url: 'https://rpc.shiden.astar.network:8545',
+    chainId: 336,
+    accounts: [privateKey]
+  },
+```
+
+```
+astar: {
+    url: 'https://rpc.astar.network:8545',
+    chainId: 592,
+    accounts: [privateKey]
+  },
+```
+
+## Verification of a smart contract
+
+https://astar.subscan.io/account/0x101B453a02f961b4E3f0526eCd4c533c3A80d795?tab=contract
+
+## Links
+
+https://twitter.com/AstarTechDigest
 
