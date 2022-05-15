@@ -17,7 +17,7 @@ To get started, you will need the following:
 
 `Network`: Astar
 
-`RPC`: https://rpc.astar.network:8545
+`RPC`: https://evm.astar.network
 
 `Chain ID`: 592
 
@@ -50,7 +50,7 @@ Below, you can find settings for networks (click to expand):
    
    ```
    Network Name:  Shibuya
-   RPC: https://rpc.shibuya.astar.network:8545
+   RPC: https://evm.shibuya.astar.network
    Chain ID: 81
    Currency Symbol: SBY
    Block explorer: https://blockscout.com/shibuya/
@@ -64,7 +64,7 @@ Below, you can find settings for networks (click to expand):
    
    ```
    Network Name:  Shiden
-   RPC: https://rpc.shiden.astar.network:8545
+   RPC: https://evm.shiden.astar.network
    Chain ID: 336
    Currency Symbol: SDN
    Block explorer: https://blockscout.com/shiden
@@ -78,7 +78,7 @@ Below, you can find settings for networks (click to expand):
    
    ```
    Network Name:  Astar Network
-   RPC: https://rpc.astar.network:8545
+   RPC: https://evm.astar.network
    Chain ID: 592
    Currency Symbol: ASTR
    Block explorer: https://blockscout.com/astar
