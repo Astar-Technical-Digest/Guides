@@ -117,5 +117,7 @@ https://astar.subscan.io/account/0x101B453a02f961b4E3f0526eCd4c533c3A80d795?tab=
 
 ## Links
 
+https://docs.astar.network/integration/network-details
+
 https://twitter.com/AstarTechDigest
 
